@@ -1,0 +1,45 @@
+{
+  "name": "recase",
+  "version": "1.0.4",
+  "homepage": "https://github.com/coolaj86/recase-js",
+  "authors": [
+    "AJ ONeal <awesome@coolaj86.com>"
+  ],
+  "description": "Deep re-key Objects and Arrays as either camel case or snake case.",
+  "main": "recase.js",
+  "moduleType": [
+    "globals",
+    "node"
+  ],
+  "keywords": [
+    "rekey",
+    "key",
+    "recase",
+    "deep",
+    "copy",
+    "camel",
+    "snake",
+    "case",
+    "camelcase",
+    "snakecase",
+    "underscore",
+    "underscored"
+  ],
+  "license": "Apache2",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "_release": "1.0.4",
+  "_resolution": {
+    "type": "version",
+    "tag": "v1.0.4",
+    "commit": "fcff04dcb0198a81576aad68506ae2490872db04"
+  },
+  "_source": "https://github.com/coolaj86/recase-js.git",
+  "_target": "~1.0.4",
+  "_originalSource": "recase"
+}
